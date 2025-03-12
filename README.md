@@ -69,9 +69,4 @@ Due to time constraints, the following alternatives were not explored:
 1. **Deep Learning-Based Feature Extraction**:  
    - Transfer learning approaches could enhance feature extraction.  
 2. **Synthetic Data Generation**:  
-   - Using online simulators [1] to generate synthetic PCB data could expand the dataset. Multi-cropping strategies and augmentations could be applied to high-resolution (1000×1000) images for synthetic board generation using diffusion models.  
-
----
-
-## 📜 License  
-This project is licensed under the MIT License.  
+   - Using online simulators [1] to generate synthetic PCB data could expand the dataset. Multi-cropping strategies and augmentations could be applied to high-resolution (1000×1000) images for synthetic board generation using diffusion models.   
